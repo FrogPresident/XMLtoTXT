@@ -1,0 +1,28 @@
+<annotation>
+	<folder>picture123</folder>
+	<filename>219.jpg</filename>
+	<path>C:\Users\xup61\Desktop\picture123\219.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eat_shrimp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>685.3977</cx>
+			<cy>190.1399</cy>
+			<w>61.3456</w>
+			<h>208.6909</h>
+			<angle>2.3</angle>
+		</robndbox>
+		<extra/>
+	</object>
+</annotation>

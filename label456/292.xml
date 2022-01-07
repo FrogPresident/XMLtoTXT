@@ -1,0 +1,28 @@
+<annotation>
+	<folder>picture123</folder>
+	<filename>292.jpg</filename>
+	<path>C:\Users\xup61\Desktop\picture123\292.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shrimp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>398.7921</cx>
+			<cy>282.5869</cy>
+			<w>45.4596</w>
+			<h>142.8663</h>
+			<angle>2.89</angle>
+		</robndbox>
+		<extra/>
+	</object>
+</annotation>
